@@ -1,0 +1,24 @@
+{
+  "name": "online-courses-platform",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@mux/mux-player-react": "^latest",
+    "tailwindcss": "^latest",
+    "postcss": "^latest",
+    "autoprefixer": "^latest"
+  },
+  "devDependencies": {
+    "tailwindcss": "^latest",
+    "postcss": "^latest",
+    "autoprefixer": "^latest"
+  }
+}
